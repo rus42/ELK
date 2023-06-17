@@ -3,7 +3,7 @@
 ## Задание 1. Elasticsearch
 ### Установите и запустите Elasticsearch, после чего поменяйте параметр cluster_name на случайный.
 
-![alt text](https://github.com/rus42/ELK/blob/branch/ELK/Task_1.png)
+![alt text](https://github.com/rus42/ELK/blob/branch/netology/ELK/Task_1.png)
 
 ## Задание 2. Kibana
 ### Установите и запустите Kibana.
