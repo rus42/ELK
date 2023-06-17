@@ -15,7 +15,7 @@
 
 ![alt text](https://github.com/rus42/ELK/blob/main/Task_3.png)
 
-## Задание 4. Filebeat.
+## Задание 4. Filebeat
 ### Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat.
 
 ![alt text](https://github.com/rus42/ELK/blob/main/Task_4.png)
